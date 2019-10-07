@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Austin Rose
 
 printf "username@ip: "
 read username
